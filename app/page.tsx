@@ -134,31 +134,31 @@ export default function Home() {
                 🎄
               </div>
               <div className="absolute -top-3 sm:-top-4 left-4 sm:left-8 text-2xl sm:text-4xl animate-bounce">
-                ⭐
+                ⭐ 🎅
               </div>
               <div
                 className="absolute -top-3 sm:-top-4 right-4 sm:right-8 text-2xl sm:text-4xl animate-bounce"
                 style={{ animationDelay: "0.5s" }}
               >
-                ⭐
+                🎅 ⭐
               </div>
 
               {/* Card Content */}
               <div className="text-center space-y-4 sm:space-y-6 mt-2 sm:mt-4">
                 <h1
-                  className="text-3xl sm:text-4xl font-bold text-red-600 drop-shadow-lg mb-0"
+                  className="text-2xl font-bold text-red-600 drop-shadow-lg mb-0"
                   style={{ fontFamily: "Georgia, serif" }}
                 >
-                  🎅 Merry Christmas 🎅
+                  Merry Christmas
                 </h1>
                 <h1
-                  className="text-3xl sm:text-4xl font-bold text-red-600 drop-shadow-lg mb-0"
+                  className="text-2xl font-bold text-red-600 drop-shadow-lg mb-0"
                   style={{ fontFamily: "Georgia, serif" }}
                 >
                   &
                 </h1>
 
-                <div className="text-2xl sm:text-3xl font-bold bg-linear-to-r from-green-600 to-red-600 bg-clip-text text-transparent mb-0">
+                <div className="text-2xl font-bold bg-linear-to-r from-green-600 to-red-600 bg-clip-text text-transparent mb-0">
                   Happy New Year 2026
                 </div>
 
