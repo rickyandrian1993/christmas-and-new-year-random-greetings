@@ -1,4 +1,4 @@
-export const combined_greetings = [
+export const greetings = [
   {
     "id": 1,
     "english": "Wishing you a Christmas filled with comforting moments and a New Year where every road leads to joy and success.",
